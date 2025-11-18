@@ -1,0 +1,561 @@
+/*? Width: 992px to 1280px */  /* Done */
+
+/** 1270px -- 94% **/
+
+@media only screen and (max-width: 1351px) and (min-width: 992px){
+    #head{
+        height: 700px;
+    }
+    .altbar-activate-button{
+        display: none;
+    }
+    .altbar-deactivate-button{
+        display: none;
+    }
+    .nav-bar{
+        width: 95%;
+    }
+    .nav-bar-name h1{
+        font-size: 26px;
+    }
+    .nav-bar-name p{
+        font-size: 15px;
+    }
+    .nav-bar-link{
+        padding: 14px 28px;
+    }
+    .nav-text{
+        margin: 150px 0px 0px 0px;
+    }
+    .nav-text-top{
+        font-size: 19px;
+    }
+    .nav-text-body{
+        font-size: 56px;
+    }
+    .nav-text-link{
+        padding: 16px 30px;
+    }
+    .body-about-us{
+        width: 70%;
+    }
+    .body-about-us-top-1{
+        font-size: 17px;
+    }
+    .body-about-us-top-2{
+        font-size: 28px;
+    }
+    .body-about-us-content-1, .body-about-us-content-2{
+        font-size: 16px;
+    }
+    .body-services-alt{
+        width: 90%;
+        gap: 90px;
+    }
+    .body-services-left{
+        width: 55%;
+    }
+    .body-services-top-1{
+        font-size: 17px;
+    }
+    .body-services-top-2{
+        font-size: 23px;
+    }
+    .body-services-content-1-top,
+    .body-services-content-2-top,
+    .body-services-content-1-top{
+        font-size: 19px;
+    }
+    .body-services-content-1-body,
+    .body-services-content-2-body,
+    .body-services-content-3-body{
+        font-size: 14px;
+    }
+    .body-services-right{
+        width: 45%;
+    }
+    .body-services-right-alt{
+        font-size: 30px;
+    }
+    .body-projects-top{
+        font-size: 17px;
+    }
+    .body-projects-body{
+        font-size: 36px;
+    }
+    .body-projects-photos-descriptions{
+        width: 92%;
+        gap: 20px;
+    }
+    .body-projects-photo-description{
+        width: 32%;
+    }
+    .body-projects-photos-1,
+    .body-projects-photos-2,
+    .body-projects-photos-3{
+        width: 100%;
+    }
+    .body-projects-descriptions-1,
+    .body-projects-descriptions-2,
+    .body-projects-descriptions-3{
+        width: 100%;
+    }
+    .body-projects-descriptions-1 h1,
+    .body-projects-descriptions-2 h1,
+    .body-projects-descriptions-3 h1{
+        font-size: 22px;
+    }
+    .body-projects-descriptions-1 p,
+    .body-projects-descriptions-2 p,
+    .body-projects-descriptions-3 p{
+        font-size: 14px;
+    }
+    .body-projects-foot-description-link{
+        width: 90%;
+    }
+    .body-projects-foot-description{
+        width: 75%;
+        font-size: 23px;
+    }
+    .body-projects-foot-right{
+        width: 25%;
+    }
+    .footer{
+        width: 90%;
+    }
+    .footer-top-about{
+        width: 48%;
+    }
+    .footer-top-right{
+        margin: 0px 0px 0px 10%;
+    }
+    .footer-top-services{
+        width: 50%;
+        margin: 0px 3% 0px 3%;
+    }
+    .footer-top-contact{
+        width: 50%;
+    }
+    .footer-bottom{
+        width: 100%;
+    }
+    .footer-bottom-copyright{
+        width: 70%;
+    }
+    .footer-bottom-script{
+        width: 30%;
+        text-align: right;
+    }
+}
+
+/*? Width: 768px to 992px */ /* Done */
+
+@media only screen and (max-width: 992px) and (min-width: 768px){
+    #head{
+        height: 500px;
+    }
+    .button-up{
+        width: 80%;
+        display: flex;
+        flex-direction: row;
+        justify-content: end;
+    }
+    .altbar-activate-button{
+        display: block;
+    }
+    .nav-bar{
+        margin: 20px 0px 0px 0px;
+        width: 92%;
+    }
+    .nav-bar-right{
+        display: none;
+    }
+    .nav-bar-name h1{
+        font-size: 26px;
+    }
+    .nav-bar-name p{
+        font-size: 15px;
+    }
+    .nav-text{
+        margin: 80px 0px 0px 0px;
+    }
+    .nav-text-top{
+        font-size: 17px;
+    }
+    .nav-text-body{
+        font-size: 46px;
+    }
+    .nav-text-link{
+        padding: 16px 34px;
+        font-size: 15px;
+    }
+    .display-none{
+        display: none;
+    }
+    .body-about-us{
+        width: 70%;
+    }
+    .body-about-us-top-1{
+        font-size: 17px;
+    }
+    .body-about-us-top-2{
+        font-size: 26px;
+    }
+    .body-about-us-content-1, .body-about-us-content-2{
+        font-size: 15px;
+    }
+    .body-services-alt{
+        width: 94%;
+        gap: 40px;
+    }
+    .body-services-left{
+        width: 55%;
+    }
+    .body-services-top-1{
+        font-size: 15px;
+    }
+    .body-services-top-2{
+        font-size: 21px;
+    }
+    .body-services-content-1-top,
+    .body-services-content-2-top,
+    .body-services-content-1-top{
+        font-size: 18px;
+    }
+    .body-services-content-1-body,
+    .body-services-content-2-body,
+    .body-services-content-3-body{
+        font-size: 14px;
+    }
+    .body-services-right{
+        width: 45%;
+    }
+    .body-services-right-alt{
+        font-size: 26px;
+    }
+    .body-projects-top{
+        font-size: 17px;
+    }
+    .body-projects-body{
+        font-size: 36px;
+    }
+    .body-projects-photos-descriptions{
+        width: 92%;
+        gap: 20px;
+    }
+    .body-projects-photo-description{
+        width: 32%;
+    }
+    .body-projects-photos-1,
+    .body-projects-photos-2,
+    .body-projects-photos-3{
+        width: 100%;
+    }
+    .body-projects-descriptions-1,
+    .body-projects-descriptions-2,
+    .body-projects-descriptions-3{
+        width: 100%;
+    }
+    .body-projects-descriptions-1 h1,
+    .body-projects-descriptions-2 h1,
+    .body-projects-descriptions-3 h1{
+        font-size: 20px;
+    }
+    .body-projects-descriptions-1 p,
+    .body-projects-descriptions-2 p,
+    .body-projects-descriptions-3 p{
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .body-projects-foot-description-link{
+        width: 90%;
+    }
+    .body-projects-foot-description{
+        width: 75%;
+        font-size: 20px;
+    }
+    .body-projects-foot-right{
+        width: 25%;
+    }
+    .body-projects-foot-link{
+        font-size: 15px;
+        padding: 14px 34px;
+    }
+    #foot{
+        height: auto;
+    }
+    .footer{
+        width: 90%;
+        margin: 50px 0px 30px 0px;
+    }
+    .footer-top{
+        gap: 20px;
+        margin: 0px;
+    }
+    .footer-top-about{
+        width: 45%;
+    }
+    .footer-top-about-top{
+        font-size: 18px;
+    }
+    .footer-top-about-script-1{
+        font-size: 14px;
+        line-height: 26px;
+        margin: 15px 0px 20px 0px;
+    }
+    .footer-top-about-script-2{
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .footer-top-right{
+        width: 55%;
+    }
+    .footer-top-services{
+        width: 50%;
+    }
+    .footer-top-services-top{
+        font-size: 18px;
+    }
+    .footer-top-services-link-same{
+        font-size: 13px;
+    }
+    .footer-top-contact{
+        width: 50%;
+    }
+    .footer-top-contact-top{
+        font-size: 18px;
+    }
+    .footer-top-contact-script{
+        font-size: 14px;
+        line-height: 26px;
+        margin: 0px 0px 40px 0px;
+    }
+    .footer-top-contact a div{
+        font-size: 13px;
+    }
+    .footer-bottom{
+        width: 100%;
+        margin: 80px 0px 0px 0px;
+    }
+    .footer-bottom-copyright{
+        width: 70%;
+        font-size: 14px;
+    }
+    .footer-bottom-script{
+        width: 30%;
+        text-align: right;
+        font-size: 14px;
+    }
+}
+
+/*? Width: to 768px */ /* Done */
+
+@media only screen and (max-width: 768px){
+    #head{
+        height: 500px;
+    }
+    .button-up{
+        width: 80%;
+        display: flex;
+        flex-direction: row;
+        justify-content: end;
+    }
+    .altbar-activate-button{
+        display: block;
+    }
+    .nav-bar{
+        margin: 20px 0px 0px 0px;
+        width: 92%;
+    }
+    .nav-bar-right{
+        display: none;
+    }
+    .nav-bar-name h1{
+        font-size: 22px;
+    }
+    .nav-bar-name p{
+        font-size: 13px;
+    }
+    .nav-text{
+        margin: 80px 0px 0px 0px;
+    }
+    .nav-text-top{
+        font-size: 16px;
+    }
+    .nav-text-body{
+        font-size: 36px;
+    }
+    .nav-text-link{
+        padding: 16px 34px;
+        font-size: 15px;
+    }
+    .display-none{
+        display: none;
+    }
+    .body-about-us{
+        width: 90%;
+    }
+    .body-about-us-top-1{
+        font-size: 17px;
+    }
+    .body-about-us-top-2{
+        font-size: 24px;
+    }
+    .body-about-us-content-1, .body-about-us-content-2{
+        font-size: 14px;
+    }
+    .body-about-us-link{
+        padding: 13px 40px;
+        font-size: 14px;
+    }
+    .body-services-alt{
+        width: 94%;
+        gap: 20px;
+    }
+    .body-services-left{
+        width: 55%;
+    }
+    .body-services-top-1{
+        font-size: 14px;
+    }
+    .body-services-top-2{
+        font-size: 19px;
+    }
+    .body-services-content-1-top,
+    .body-services-content-2-top,
+    .body-services-content-1-top{
+        font-size: 17px;
+    }
+    .body-services-content-1-body,
+    .body-services-content-2-body,
+    .body-services-content-3-body{
+        font-size: 13px;
+    }
+    .body-services-right{
+        width: 45%;
+    }
+    .body-services-right-alt{
+        font-size: 22px;
+    }
+    .body-projects-top{
+        font-size: 16px;
+    }
+    .body-projects-body{
+        font-size: 30px;
+    }
+    .body-projects-photos-descriptions{
+        width: 92%;
+        gap: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .body-projects-photo-description{
+        width: 80%;
+    }
+    .body-projects-photos-1,
+    .body-projects-photos-2,
+    .body-projects-photos-3{
+        width: 100%;
+    }
+    .body-projects-descriptions-1,
+    .body-projects-descriptions-2,
+    .body-projects-descriptions-3{
+        width: 100%;
+        text-align: center;
+    }
+    .body-projects-descriptions-1 h1,
+    .body-projects-descriptions-2 h1,
+    .body-projects-descriptions-3 h1{
+        font-size: 20px;
+    }
+    .body-projects-descriptions-1 p,
+    .body-projects-descriptions-2 p,
+    .body-projects-descriptions-3 p{
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .body-projects-foot-description-link{
+        width: 90%;
+    }
+    .body-projects-foot-description{
+        width: 67%;
+        font-size: 18px;
+    }
+    .body-projects-foot-right{
+        width: 33%;
+    }
+    .body-projects-foot-link{
+        font-size: 14px;
+        padding: 13px 31px;
+    }
+    #foot{
+        height: auto;
+    }
+    .footer{
+        margin: 40px 20px;
+        width: 96%;
+        height: auto;
+    }
+    .footer-top{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+        margin: 0px;
+    }
+    .footer-top-about{
+        width: 96%;
+    }
+    .footer-top-about-top{
+        font-size: 18px;
+    }
+    .footer-top-about-script-1{
+        font-size: 14px;
+        line-height: 26px;
+        margin: 15px 0px 20px 0px;
+    }
+    .footer-top-about-script-2{
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .footer-top-right{
+        width: 90%;
+        display: flex;
+        flex-direction: row;
+        justify-content: start;
+    }
+    .footer-top-services{
+        width: 50%;
+        margin: 0px;
+    }
+    .footer-top-services-top{
+        font-size: 18px;
+    }
+    .footer-top-services-link-same{
+        font-size: 13px;
+    }
+    .footer-top-contact{
+        width: 50%;
+    }
+    .footer-top-contact-top{
+        font-size: 18px;
+    }
+    .footer-top-contact-script{
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .footer-top-contact a div{
+        font-size: 13px;
+    }
+    .footer-bottom{
+        width: 100%;
+    }
+    .footer-bottom-copyright{
+        width: 60%;
+    }
+    .footer-bottom-script{
+        width: 40%;
+        text-align: right;
+    }
+}
