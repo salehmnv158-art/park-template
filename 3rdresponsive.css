@@ -483,6 +483,7 @@
     .body-projects-foot-description-link{
         width: 90%;
         display: flex;
+        gap: 20px;
         flex-direction: column;
         align-items: center;
         justify-content: center;
@@ -570,4 +571,5 @@
         text-align: right;
     }
 }
+
 
